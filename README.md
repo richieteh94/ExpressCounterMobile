@@ -22,3 +22,10 @@ For the pdf view could use url below to setup.<br />
 https://developer.xamarin.com/recipes/cross-platform/xamarin-forms/controls/display-pdf/
 
 For paypal store key could use the sandbox paypal account.
+
+For the server part the LocalServerScript folder included the php script to work together with the Mobile. 
+Remember setup your own server before run the application php script are provided.
+<br />
+Include the fpdf into the server also to perform the pdf generating. Links below is the fpdf website.
+<br />
+http://www.fpdf.org/
