@@ -29,3 +29,5 @@ Remember setup your own server before run the application php script are provide
 Include the fpdf into the server also to perform the pdf generating. Links below is the fpdf website.
 <br />
 http://www.fpdf.org/
+<br />
+Remember create a folder name 'pdf' to store pdf file after generated.
